@@ -1,2 +1,2 @@
-# my-Git-project
-github-course
+# new-git-project
+## github-course
